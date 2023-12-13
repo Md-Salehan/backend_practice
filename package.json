@@ -1,0 +1,16 @@
+{
+  "name": "backendpractice",
+  "version": "1.0.0",
+  "description": "backend by chai with code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "practice",
+    "ytbackend"
+  ],
+  "author": "mdsalehan",
+  "license": "ISC"
+}
